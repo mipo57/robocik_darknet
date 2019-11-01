@@ -7,11 +7,11 @@
 ## Uwagi
 
 - Xavier ma proceosor ARM, więc trzeba osobno skompilować na xavierze i na PC! Na xavierze wszystkie zależności są już zainstalowane, więc make powinen udać się bez problemu. Binarka chyba też gdzieś jest (libdarknet.so)
-- Jeżeli ktoś nie lubi kompilować to zapodaję linuksową binarki na X86-64. Nazwę pliku **libka.txt trzeba zmienić na [libdarknet.so](http://libdarknet.so)** i dać do /usr/lib lub w tym samym folderze co darknet.py. [**Darknet.](http://darknet.py)txt zmienić na darknet** (plik wykoywalny do trenowania)
+- Jeżeli ktoś nie lubi kompilować to zapodaję linuksową binarki na X86-64. libdarknet.so dać do /usr/lib lub w tym samym folderze co darknet.py. 
 
-[libka](libka-b02a0ba7-bac4-4f4f-8771-dfbcebeb1add.txt)
+[libka](libdarknet.so)
 
-[darknet](darknet-f93d6d07-5370-4fcc-bf02-c68d98161d29.txt)
+[darknet](darknet)
 
 # Przygotowanie datasetu
 
