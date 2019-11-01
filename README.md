@@ -1,11 +1,3 @@
-# Opisać darknet
-
-Deadline: Nov 01, 2019
-Miejsce: Dom
-Priorytet: Niski
-Projekt: https://www.notion.so/7a57fc67ad944f9a93778b7d630657f9
-Status: Do zrobienia
-
 # Kompilowanie
 
 [https://pjreddie.com/darknet/install/](https://pjreddie.com/darknet/install/)
@@ -49,8 +41,8 @@ Status: Do zrobienia
 
 Oficjalnej dokumentacji nie ma, ale używanie w pythonie to po prostu bidngi do C. Kod źródłowy jest w pliku poniej na githubie. (Są lekkie modyfikacie w stosunku do orginalnego kodu z darkneta)
 
-[](https://github.com/DominikWasiolka/Xavier_ROV4/blob/robosub_2019/neural_networks/darknet.py)
+[https://github.com/DominikWasiolka/Xavier_ROV4/blob/robosub_2019/neural_networks/darknet.py](https://github.com/DominikWasiolka/Xavier_ROV4/blob/robosub_2019/neural_networks/darknet.py)
 
 Najprościej będzie zobaczyć przykład użycia w implementacji na robosub_2019
 
-[](https://github.com/DominikWasiolka/Xavier_ROV4/blob/robosub_2019/neural_networks/YoloServer/DarknetYoloModel.py)
+[https://github.com/DominikWasiolka/Xavier_ROV4/blob/robosub_2019/neural_networks/YoloServer/DarknetYoloModel.py](https://github.com/DominikWasiolka/Xavier_ROV4/blob/robosub_2019/neural_networks/YoloServer/DarknetYoloModel.py)
